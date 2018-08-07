@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SiddhantaRegular';
+    src: url('siddhanta.eot');
+    src: url('siddhanta.eot') format('embedded-opentype'),
+         url('siddhanta.woff') format('woff'),
+         url('siddhanta.ttf') format('truetype'),
+         url('siddhanta.svg#SiddhantaRegular') format('svg');
+}
